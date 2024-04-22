@@ -2,11 +2,12 @@
 
 This is some awesome content.
 
-## Smaller heading
+## To DO
 
-###### smallest heading
-
-This is some extra content.
+- [x] add Readme to profile
+- [x] start github page
+- [ ] improve portfolio
+- [ ] use more of the awesome perks from GitHub
 
 ## Code
 Programming is awesome, that's why I want too add some code snippets here:
