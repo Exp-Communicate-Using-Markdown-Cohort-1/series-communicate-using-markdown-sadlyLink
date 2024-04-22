@@ -7,3 +7,7 @@ This is some awesome content.
 ###### smallest heading
 
 This is some extra content.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+![Nuxtocat](https://octodex.github.com/images/nuxtocat.png)
